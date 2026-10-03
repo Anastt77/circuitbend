@@ -1,5 +1,6 @@
 # circuitbend
 Pictures taken with the camera in the images folder
+timelapse: https://lapse.hackclub.com/timelapse/0phee9GGgMKx
 # how it works
 this absolute unit of a build is held together with the power of hopes and dreams. literally. this is a kids toy camera that i got for like 4 bucks 2nd hand.
 i have probably made a million fundamental mistakes that would send someone who actually knows their stuff straight into a coma. does it work tho>? Yeah it does!!
